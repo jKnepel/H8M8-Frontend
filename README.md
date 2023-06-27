@@ -1,5 +1,7 @@
 # SystemsDevelopmentWS22-AI-Moderation Frontend
 
+Student project for SystemsDevelopment Module, created by a team of students. Uses React, Mantine and Recharts to visualise use of hatespeech collected by bots in chatrooms, such as Discord, Telegram etc.
+
 ## Development
 
 ### Setup for Developers
